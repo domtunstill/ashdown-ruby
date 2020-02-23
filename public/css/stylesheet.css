@@ -1,7 +1,6 @@
-.container section:first-child {
-    display: flex;
-    align-items: flex-start; /* new */
-  }
+.first-element {
+    align-items: flex-start
+}
 
 @media (min-width: 768px) {
   #footer-right {
