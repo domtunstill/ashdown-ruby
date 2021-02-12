@@ -1,5 +1,5 @@
 .first-element {
-    align-items: flex-start
+  align-items: flex-start;
 }
 
 @media (min-width: 768px) {
@@ -14,10 +14,11 @@
   }
   .coming_soon {
     font-size: 20px;
-    margin-bottom: 0px;
+    margin-bottom: -15px;
   }
   .email {
     font-size: 19px;
+    padding-top: 8px;
   }
   .main_container {
     height: 400px;
@@ -47,14 +48,19 @@
     border-bottom: 1px solid black;
   }
   .coming_soon {
-    font-size: 9px;
-    margin-bottom: 0px;
+    font-size: 12px;
+    margin-bottom: -15px;
   }
   .email {
-    font-size: 8px;
+    font-size: 11px;
+    padding-top: 8px;
+  }
+  .insta {
+    height: 20px;
+    width: 20px;
   }
   .logo {
-    width: 80%;
+    size: 20%;
   }
   .main_container {
     height: 300px;
